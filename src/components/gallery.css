@@ -1,0 +1,13 @@
+.gallery--container {
+  background-color: white;
+  height: calc(100vh - 120px);
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(300px, 1fr)
+  ); /* multiple columns */
+  gap: 1.5rem;
+  padding: 1.5rem;
+  max-width: 1200px;
+  margin: auto;
+}

@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  gap: 1rem;
+  background: linear-gradient(180deg, #f7fbff 0%, #f2f6fb 100%);
+  color: #0b1220;
+}
