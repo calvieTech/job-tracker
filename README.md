@@ -1,6 +1,4 @@
-Here’s a clean, professional `README.md` you can use for your Job Tracker App repository:
 
-````markdown
 # 📌 Job Tracker App
 
 A simple, modern job application tracker to help you stay organized during your job hunt.
@@ -29,7 +27,6 @@ Track your applications, monitor progress, and stay on top of interviews — all
 | **Auth (Optional)** | JSON Web Tokens (JWT) |
 | **Deployment** | Vercel (frontend) + Render/Heroku (backend) |
 
-> 💡 **Beginner-friendly option:** Start with a **frontend-only version** using `localStorage` before connecting a database.
 
 ---
 
